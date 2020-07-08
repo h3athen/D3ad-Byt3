@@ -31,13 +31,13 @@ print("""
 """)
 print(" ")
 print("Enter the target IP : ")
-ip = int(input(">>> "))
+ip = int((input(">>> "))
 print(" ")
 print("Enter the Port : ")
-port = int(input(">>> "))
+port = int((input(">>> "))
 print(" ")
 print("Input Time : ")
-dur = int(input(">>> "))
+dur = int((input(">>> "))
 print(" ")
 timeout = time.time() + dur
 sent = 0
