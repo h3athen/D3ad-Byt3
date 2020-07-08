@@ -20,7 +20,7 @@ print("""
  |___/\___\__,_\__,_| |___/\_, |\__\___|.  V1.0
                            |__/  
                            
-        |.-----.|   DISTRIBUTED DENIAL OF SERVICE ATTACK
+        |.-----.|    DENIAL OF SERVICE ATTACK
         ||x . x||             
         ||_.-._||  (not so powerful but it works)
         `--)-(--`
@@ -31,13 +31,13 @@ print("""
 """)
 print(" ")
 print("Enter the target IP : ")
-ip = input(">>> ")
+ip = int(input(">>> "))
 print(" ")
 print("Enter the Port : ")
-port = input(">>> ")
+port = int(input(">>> "))
 print(" ")
 print("Input Time : ")
-dur = input(">>> ")
+dur = int(input(">>> "))
 print(" ")
 timeout = time.time() + dur
 sent = 0
