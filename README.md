@@ -5,5 +5,5 @@ SO USE IT ETHICALLY
                -xohan30
 
 
-how to run ?
-python3 `DeadByte.py`
+how to run ? </br>
+`python3 DeadByte.py`
