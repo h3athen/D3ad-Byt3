@@ -6,4 +6,4 @@ SO USE IT ETHICALLY
 
 
 how to run ?
-python3 DeadByte.py
+python3 `DeadByte.py`
